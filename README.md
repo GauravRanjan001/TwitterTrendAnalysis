@@ -117,6 +117,14 @@ etc.
 
 ![](Img/Picture5.png)
 
+![](Img/Picture6.png)
+
+![](Img/Picture7.png)
+
+![](Img/Picture8.png)
+
+![](Img/Picture9.png)
+
 
 ## 7. Conclusion 
 The project successfully demonstrates the power of data visualization and trend analysis in 
