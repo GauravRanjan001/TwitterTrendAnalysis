@@ -2,8 +2,9 @@
 
 ### IIT Jodhpur | CSL7110 | Spring - 2025  
 
-### Gaurav Ranjan (M24DE2006) | Mohd Zaigam Alishah (M24DE2016)
-  
+### Gaurav Ranjan (M24DE2006) | Mohd Zaigam Alishah (M24DE2016)  
+
+##
 
 ## 1. Project Overview: 
 This project focuses on analysing Twitter data to identify trending topics, hashtags, and user 
