@@ -10,23 +10,23 @@ and building a comprehensive dashboard to display the findings.
 
 ## 2. Dataset Description 
 The dataset used (tweetsdata.csv) consists of offline-collected tweets and includes the following key 
-fields: \
-• UserID, Gender, Country \
-• Text (containing hashtags), Sentiment, Likes, RetweetCount, Reach \
-• Timestamp, from which Hour is derived \
+fields:  
+- UserID, Gender, Country  
+- Text (containing hashtags), Sentiment, Likes, RetweetCount, Reach 
+- Timestamp, from which Hour is derived  
 
-About Dataset: 
-• File size: ~28 MB 
-• Tweet Count: 100,000  
-• Unique Users: 33,213 
+About Dataset:  
+- File size: ~28 MB  
+- Tweet Count: 100,000  
+- Unique Users: 33,213  
 
 
-## 3. Tools & Technologies 
-• Language: Python 
-• Libraries:  
-  o Visualization: Matplotlib, Plotly, WordCloud 
-  o Interface: Streamlit (for building interactive dashboard) 
-  o Other: Pandas, collections, re, locale, etc
+## 3. Tools & Technologies  
+- Language: Python  
+- Libraries:  
+  - Visualization: Matplotlib, Plotly, WordCloud  
+  - Interface: Streamlit (for building interactive dashboard)  
+  - Other: Pandas, collections, re, locale, etc  
 
 
 ## 4. Methodology 
